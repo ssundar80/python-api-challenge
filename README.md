@@ -10,18 +10,6 @@ But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
 
-### Before You Begin
-
-1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Python API challenge. Use a folder name to correspond to the challenge: **WeatherPy**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
 ## WeatherPy
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
